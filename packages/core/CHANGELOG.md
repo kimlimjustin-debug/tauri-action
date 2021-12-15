@@ -1,5 +1,10 @@
 # Changelog
 
+## \[0.2.1]
+
+- Added support to Cargo workspaces.
+  - [8e430cc](https://www.github.com/tauri-apps/tauri-action/commit/8e430cc7b0fab28f0a7768f2157933c94f8724f6) feat: cargo workspace support, closes [#196](https://www.github.com/tauri-apps/tauri-action/pull/196) ([#198](https://www.github.com/tauri-apps/tauri-action/pull/198)) on 2021-12-10
+
 ## \[0.2.0]
 
 - Removed the `preferGlobal` and `npmScript` inputs and added a `tauriScript` option.
